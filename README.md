@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @codenyte
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Ruby 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to contact me: Discord: Nyte#1484
 
 <!---
